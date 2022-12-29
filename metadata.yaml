@@ -1,5 +1,8 @@
 _repo: Straight-America-a-call-to-national-service_69409
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69409-h/images/cover.jpg
 creator:
   author:
     agent_name: Kellor, Frances
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55183
     wikipedia: https://en.wikipedia.org/wiki/Frances_Kellor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69409#Straight-America-a-call-to-national-service
 gutenberg_issued: '2022-11-23'
 identifiers:
   gutenberg: '69409'
